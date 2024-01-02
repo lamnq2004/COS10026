@@ -4,4 +4,4 @@
 - Implemented PHP scripts to enable server-side processing of job application data obtained from web forms, enhancing the site's functionality and interactivity.
 - Established and managed MySQL tables to facilitate the storage, retrieval, and updating of information collected through the website's forms, optimizing data management for efficient HR processes.
 
-Prototype on Figma: [Link]([https://www.figma.com/proto/wmRJe0Se0gbLrhR1TWLLL6/LLab?type=design&node-id=434-459&t=Quc7BOFV78BoRlNu-1&scaling=scale-down&page-id=434%3A105&starting-point-node-id=530%3A21&mode=design])
+Prototype on Figma: [Link](https://www.figma.com/proto/XlBhQRz22LyhFYsXAdA74x/COS10026_Assignment-01?type=design&node-id=1-2&t=SYjtGnIcJkLDgeBD-1&scaling=scale-down&page-id=0%3A1&mode=design)
